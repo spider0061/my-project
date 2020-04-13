@@ -1,0 +1,16 @@
+body {background-color: powderblue;}
+h1   {color: blue;}
+p    {color: red;}
+.container {
+	width: 40%;
+	margin: auto auto;
+	padding: 20px;
+	background: #f0e68c;
+
+}
+.blog {
+	padding: 20px;
+}
+.body {
+	width: 80%;
+}
